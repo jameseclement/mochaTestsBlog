@@ -1,0 +1,17 @@
+{
+  "name": "mochablog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "James Clement",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
